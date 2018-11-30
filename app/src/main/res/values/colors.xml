@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="pink">#FCE4EC</color>
+    <color name="purple">#E1BEE7</color>
+    <color name="blue">#64B5F6</color>
+    <color name="lime">#DCE775</color>
+    <color name="teal">#64FFDA</color>
+    <color name="yellow">#FFF176</color>
+    <color name="orange">#FFAB91</color>
+    <color name="brown">#D7CCC8</color>
+    <array name="random_color">
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/blue</item>
+        <item>@color/lime</item>
+        <item>@color/teal</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/brown</item>
+    </array>
+
+</resources>

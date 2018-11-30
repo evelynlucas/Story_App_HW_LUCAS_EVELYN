@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story_App_HW_LUCAS_EVELYN</string>
+    <string name="person_name">Please enter your name:</string>
+    <string name="adjective">Please enter an adjective:</string>
+    <string name="city">Please enter the name of a city:</string>
+    <string name="number">Please enter a number:</string>
+    <string name="exotic_animal">Please enter the name of an exotic animal:</string>
+    <string name="body_part">Please enter a type of body part:</string>
+    <string name="instinct_name">Please enter a noun:</string>
+    <string name="button">Next</string>
+    <string name="story" formatted="true">Did you hear about the %2$s %1$s? Oh man, %1$s got the most high-paying Android dev job at GEEKLE! %1$s is living the rock star life: a penthouse apartment in %3$s, has about %4$s cars to drive around in, a private jet and even a pet %5$s! Well, that last part might be a rumor but %1$s really worked their %6$s off to get to where they are. It\'s like Bill Gates always said: \n\"Always trust your %7$s instinct!\"</string>
+    <string name="enter_email_text">Enter email to send story!</string>
+    <string name="intro_text">Welcome to the MadLibs app! \nPlease enter the corresponding user input to receive an \nawesome story at the end!</string>
+    <string name="number_hint">Number</string>
+    <string name="exotic_animal_hint">Exotic Animal</string>
+    <string name="body_part_hint">Body Part</string>
+    <string name="noun_hint">Noun</string>
+    <string name="name_hint">Name</string>
+    <string name="adjective_hint">Adjective</string>
+    <string name="city_hint">City</string>
+</resources>
